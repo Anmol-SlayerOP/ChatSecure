@@ -1,6 +1,5 @@
 # ChatSecure
 NLP Project Email Phishing Classifier submission by Group 1 <br>
-See hosted [website](https://chatsecure.netlify.app/).
 **.ipynb file is present at ./ChatSecure/Backend/ML/main.ipynb**  
 **and the dataset used for training is present at ./ChatSecure/Backend/app/phishing_dataset.csv**
 

@@ -24,7 +24,7 @@ ChatSecure provides a solution to this problem by leveraging machine learning al
 - scikit-learn
 - pandas
 - Machine Learning
-- BERT
+- BERT 
 - NLP
 - SCSS
 - JavaScript

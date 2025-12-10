@@ -30,3 +30,5 @@ ChatSecure provides a solution to this problem by leveraging machine learning al
 - JavaScript
 - Figma
 
+## Demo
+[![Watch the demo](https://img.youtube.com/vi/axBo5koRCa8/0.jpg)](https://youtu.be/axBo5koRCa8)
